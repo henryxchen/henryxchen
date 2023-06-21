@@ -1,6 +1,11 @@
-### Hi there 👋
+Hi there 👋
 
-I'm Henry (he/him)!
+I'm Henry (he/him)! I specialize in development and research within the realm of Quantitative Finance, I possess extensive expertise in Python and C++ while continuously seeking opportunities to expand my skillset in other programming languages (currently practicing Java!). Consequent of my degree in Mathematics, I'm also quite knowledgable in both advanced applied mathematics and pure mathematics. Particularly, I have a strong focus on stochastic processes and enumerative combinatorics.
+
+Outside of coding and mathematics I enjoy cooking, flower arrangement, and reading (I highly recommend *On Earth We're Briefly Gorgeous* by Ocean Vuong)!
+
+📬 Always feel free to reach me out to me at:
+- https://www.linkedin.com/in/henryxchen/
 
 <!--
 **henryxchen/henryxchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
